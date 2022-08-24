@@ -23,7 +23,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           Hello, world! I'm Kyle, and I'm a Senior Financial Analyst at Vercel.
-          I really enjoy learning how to code, and I'm exctied to learn more
+          I really enjoy learning how to code, and I'm excited to learn more
           about Next.js!
         </p>
         <p>
